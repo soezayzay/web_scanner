@@ -1,4 +1,4 @@
-#Coder:SoeZayZay
+#Author:SoeZayZay
 #Date :24/2/2021
 import pyfiglet
 import nmap3
